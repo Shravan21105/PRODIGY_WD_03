@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+# PRODIGY_WD_02
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##Tic Tac Toe Game
+This project is a simple yet engaging Tic Tac Toe game built using React. The game features an interactive interface that allows two players to challenge each other in a classic game of Tic Tac Toe.
 
-## Available Scripts
+## Features
+1. Two-Player Mode: Players can take turns playing as 'X' and 'O'.<br/>
+2. Dynamic Game Board: The board updates in real-time as players make their moves.<br/>
+3. Game Reset: Option to restart the game at any time.<br/>
+4. Move Tracking: Players can view their past moves during the game.<br/>
 
-In the project directory, you can run:
+## Installation
 
-### `npm start`
+### Local Development
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. **Clone the repository**:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+   ```bash
+   https://github.com/Shravan21105/PRODIGY_WD_03.git
 
-### `npm test`
+2. **Navigate to the project directory**:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+   ```bash
+   cd prodigy_wd_03
 
-### `npm run build`
+3. **Install dependencies**:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+   ```bash
+   npm install
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+4. **Run the development server**:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   ```bash
+   npm run dev
 
-### `npm run eject`
+## Usage
+The Tic Tac Toe game is structured using semantic HTML and styled with CSS to create an engaging user experience. You can customize the layout, colors, and styles to match your preferences.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Conclusion
+The Tic Tac Toe game offers an interactive and enjoyable experience for users, allowing them to play against each other while showcasing fundamental web development concepts. Feel free to modify the styles and structure to suit your project's requirements.
