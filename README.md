@@ -1,6 +1,6 @@
 # PRODIGY_WD_02
 
-##Tic Tac Toe Game
+## Tic Tac Toe Game
 This project is a simple yet engaging Tic Tac Toe game built using React. The game features an interactive interface that allows two players to challenge each other in a classic game of Tic Tac Toe.
 
 ## Features
